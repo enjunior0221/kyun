@@ -60,7 +60,7 @@ icon[4].addEventListener("change",() =>{
         }
         title.innerHTML = "<h2>おめでとうございます！！！</h2>";
         res_img.src = "img/heart.png";
-        kyun.innerHTML = "キュンです。"; 
+        kyun.innerHTML = "キュンです///"; 
         ret.innerHTML = "もう一度遊ぶ";
     }
 });
